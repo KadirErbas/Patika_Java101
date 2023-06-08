@@ -9,3 +9,4 @@ Hayvanlar:
 - Sistem ayrıca her hayvan için belirli ilaçların dozajını alabilmeli => getDosage ()
 - Sistem Yem verme zamanlarını hesaplayabilmelidir => getFeedSchedule ()
 Sistemin bu işlevleri yerine getirme mantığı, her gruplama için farklı olacaktır. Örneğin, atlar için yem verme algoritması farklı olup, kaplanlar için farklı olacaktır.
+![Hayvanat Bahçesi Yönetimi drawio](https://github.com/KadirErbas/Patika_Projeleri/assets/93327468/c29891f7-647e-4d51-b499-08051efe3ad9)
