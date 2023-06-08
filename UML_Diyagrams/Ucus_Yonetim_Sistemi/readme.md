@@ -8,7 +8,8 @@ Uçuşların ve pilotların yönetimi için bir sistem tasarlayın.
 - Havaalanlarının benzersiz kimlikleri ve isimleri vardır.
 - Hava yolu şirketlerinin pilotları vardır ve her pilotun bir deneyim seviyesi mevcuttur.
 - Bir uçak tipi, belirli sayıda pilota ihtiyaç duyabilir.
-Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.!
+Bu sistemi tasvir eden Class(Sınıf) diyagramını çiziniz.
 
 
-[Ucak_Yonetim_Sistemi](https://github.com/KadirErbas/Patika_Projeleri/assets/93327468/0677db2e-e349-46de-af7d-b05bd36c2b8e)
+
+![Ucak_Yonetim_Sistemi](https://github.com/KadirErbas/Patika_Projeleri/assets/93327468/be18c0e8-49c5-408c-a625-a4d2a80bbd47)
